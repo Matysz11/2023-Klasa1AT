@@ -38,7 +38,7 @@
     "hero_16": {
         "name": "Przemysław Jarosz",     //Imię Nazwisko
         "class": "1AT",             //Klasa (1AT,1BT,1CT)
-        "number": "5",                  //Numer w dzienniku
+        "number": "16",                  //Numer w dzienniku
         "atributes": [
             { "atributes_type": "birdthDate", "value": "22-10-2008" },  //Data urodzenia
             { "atributes_type": "country", "value": "Poland" },         //Państwo
@@ -50,11 +50,23 @@
     "hero_25": {
         "name": "Marek Podleśny",     //Imię Nazwisko
         "class": "1AT",             //Klasa (1AT,1BT,1CT)
-        "number": "12",                  //Numer w dzienniku
+        "number": "25",                  //Numer w dzienniku
         "atributes": [
             { "atributes_type": "birdthDate", "value": "31-07-2009" },  //Data urodzenia
             { "atributes_type": "country", "value": "Poland" },         //Państwo
             { "atributes_type": "city", "value": "Białystok"}           //Miasto
             { "atributes_type": "power", "value": "Sigma skibidi"}               //Moc :)
+        ]
+    }
+{
+    "hero_25": {
+        "name": "Mateusz Butwiłowski",     //Imię Nazwisko
+        "class": "1AT",             //Klasa (1AT,1BT,1CT)
+        "number": "3",                  //Numer w dzienniku
+        "atributes": [
+            { "atributes_type": "birdthDate", "value": "27-04-2009" },  //Data urodzenia
+            { "atributes_type": "country", "value": "Poland" },         //Państwo
+            { "atributes_type": "city", "value": "Białystok"}           //Miasto
+            { "atributes_type": "power", "value": "skibidi toaleta"}               //Moc :)
         ]
     }
